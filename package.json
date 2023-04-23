@@ -16,4 +16,8 @@
     "url": "https://github.com/asilverthorn/ultima-common/issues"
   },
   "homepage": "https://github.com/asilverthorn/ultima-common#readme"
+  "publishConfig": {
+	  "@asilverthorn:registry": "https:npm.pkg.github.com"
+  }
+
 }
